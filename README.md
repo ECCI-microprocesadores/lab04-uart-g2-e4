@@ -31,9 +31,8 @@ Tenemos que TX seria la linea de salida de datos y RX la linea de entrada.
 
 -Computador: Este, pues nos recibirá los datos enviados desde el PIC.
 ## Implementación
-
+La implementacion de la comunicacion UART en el microcontrolador pib18f45k22 nos permitio establecer un canal de transmision y una recepcion de datos confiable y bastante eficiente entre el sistema y el PC. Se observo que al sier un protocolo asincrono es bastante simple y no precisa de muchas conexiones. Durante el desarrollo del proyecto se comprendio la estructura y funcionamiento, al igual que se resalto la importancia de realizar conexiones correctas entre los componentes.
 
 ## Diagramas
 
 ## Conclusiones
-La implementacion de la comunicacion UART en el microcontrolador pib18f45k22 nos permitio establecer un canal de transmision y una recepcion de datos confiable y bastante eficiente entre el sistema y el PC. Se observo que al sier un protocolo asincrono es bastante simple y no precisa de muchas conexiones. Durante el desarrollo del proyecto se comprendio la estructura y funcionamiento, al igual que se resalto la importancia de realizar conexiones correctas entre los componentes.
