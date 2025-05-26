@@ -43,4 +43,4 @@ La implementacion de la comunicacion UART en el microcontrolador pic18f45k22 nos
  ![Representacion2](/UART.png)
  
 ## Conclusiones
-Finalmente luego de hacer la correcta implementacion del codigo y conexiones en fisico, se logro evidenciar por medio de un computador la transmision de datos adecuadamente de variacion de voltaje gracias potenciometro. Cabe recalcar la fluides y exactitud en la transmision de datos que demuestra la eficiencia de comunicacion por el metodo de UART.
+Finalmente luego de hacer la correcta implementacion del codigo y conexiones en fisico, se logro evidenciar por medio de un computador la transmision de datos adecuadamente de variacion de voltaje gracias potenciometro. Cabe recalcar la fluides y exactitud en la transmision de datos que demuestra la eficiencia de comunicacion por el metodo de UART..
